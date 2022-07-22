@@ -214,8 +214,6 @@ header .header-content {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-left: 160px;
-    margin-right: 160px;
     flex-wrap: wrap;
     gap: 34px;
     margin-top: 83px;
